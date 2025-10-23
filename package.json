@@ -1,0 +1,12 @@
+{
+  "name": "middleware_project",
+  "version": "1.0.0",
+  "description": "Express middleware for logging and Bearer token authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
